@@ -1,6 +1,7 @@
 Resolute Hero RPG HTML Helper
 
 This HTML file is a fan-made companion tool for the mobile game Resolute Hero RPG.
+This tool can be used directly in-browser through GitHub Pages or downloaded and used offline locally.
 
 The purpose of the file is to provide:
 
